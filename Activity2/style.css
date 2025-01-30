@@ -1,0 +1,15 @@
+html{
+    font-family:Arial,Sans-Serif;
+    background: Gray;
+    
+  }
+  p{
+    color:yellow;
+    text-align: center;
+    
+  }
+  h1{
+    color:light;
+    font-size: 50px;
+    text-align:left;
+  }
